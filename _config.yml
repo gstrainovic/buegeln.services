@@ -46,7 +46,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://buegeln.services" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:
+facebook_url: https://www.facebook.com/gstrainovic
 github_url:
 googleplus_url:
 instagram_url:
