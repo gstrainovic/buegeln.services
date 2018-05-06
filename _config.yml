@@ -38,7 +38,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Region St.Gallen(SG),Thurgau(TG),Steinach,Arbon,Rorschach,Romanshorn,Horn,Goldach,Rheineck,St.Margrethen,Amriswil,Roggwil,Tübach,Berg. 
 author: Strainovic Vesna
 email: strainovic.v@gmail.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/strainovic-vesna.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
