@@ -1,19 +1,4 @@
-# Prologue - Jekyll Theme
-
-[![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
-
-![Prologue Theme](assets/images/screenshot.png "Prologue Theme Screenshot")
-
-This is Prologue, a simple, single page responsive site template from [HTML5 UP](https://html5up.net/prologue), now available as a blog-aware Jekyll theme from [Chris Bobbe](https://chrisbobbe.github.io). It features a clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
-
-**Demo**: https://chrisbobbe.github.io/jekyll-theme-prologue/
-
-# Added Features
-
-* **Blogging and multi-page features you expect from Jekyll**
-* Compatible with GitHub Pages
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Build your homepage with **custom scrolly sections** in the _sections folder
+*change:  Build your homepage with **custom scrolly sections** in the _sections folder
  * Set a **cover photo** for any section (not just the first), with alt text for screen readers and SEO
 * Add your **social profiles** easily in `_config.yml`.
 * Automatic search engine optimization (SEO) **meta tags** based on info you provide in `_config.yml` and frontmatter
