@@ -4,8 +4,8 @@ icon: far fa-money-bill-alt
 order: 2
 ---
 
-1. Einfach Anrufen/SMS/WhatsApp 076 707 21 57 oder schreiben strainovic.v@gmail.com.
-2. Gewaschene Wäsche vorbeibringen oder von uns abholen lassen.
-3. Perfekte faltenfreie und knitterfreie gebügelte Wäsche abholen oder liefern lassen.
+Preis pro Hemd: 3.50 chf 
+Restliche Wäsche: 20.00 chf/h
+Abholung und Lieferung. 1.00 chf/km oder Sie bringen ihre gewaschene Wäsche und holen es gebügelt selber ab.
 
 
