@@ -1,16 +1,16 @@
 ---
 title: Preise
 icon: far fa-money-bill-alt
-order: 2
+order: 3
 ---
 
-Dienstleistung | CHF | Einheit
------------- | ------------- | -------------
-Hemd bügeln | 3.50 | Stück
-Restliche Wäsche | 20.00 | Stunde 
-Abholung durch uns | 1 | km
-Lieferung durch uns | 1 | km
-Selber Wäsche bringen | ohne Zuästzliche kosten | -
-Selber Wäsche abholen | ohne Zuästzliche kosten | -
+Dienstleistung | Preis
+------------ | ------------- 
+Hemd bügeln | 3.50 CHF / Hemd
+Restliche Wäsche | 20.00 CHF / h 
+Abholung durch uns | 1 CHF / km
+Lieferung durch uns | 1 CHF / km
+Selber Wäsche bringen | ohne zusätzliche Kosten
+Selber Wäsche abholen | ohne zusätzliche Kosten
 
 
