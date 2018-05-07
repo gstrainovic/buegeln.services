@@ -10,6 +10,7 @@ So erhalten Sie Ihre knitterfreie gebügelte Wäsche:
 1. Termin vereinbaren.
 2. Gewaschene Wäsche vorbeibringen oder von uns abholen lassen.
 3. Wäsche nach 24h abholen oder von uns liefern lassen.  
+
 <a href="#contact" class="button scrolly">Termin vereinbaren</a>
 
 
