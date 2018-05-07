@@ -4,7 +4,7 @@ icon: fa-envelope
 order: 5
 ---
 
-# 076 707 21 57 auch WhatsApp oder Viber
+# 076 707 21 57 (auch WhatsApp oder Viber)
 # [strainovic.v@gmail.com](mailto:strainovic.v@gmail.com) 
 
 <form method="post" action="https://formspree.io/{{ site.email }}">
