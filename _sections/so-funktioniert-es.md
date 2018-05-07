@@ -6,6 +6,7 @@ icon: fa-question
 order: 1
 ---
 ## Keine Zeit oder Lust <s>selber</s> zu bügeln?  
+Nur drei Schritte bis zur knitterfreien Wäsche:
 ### 1. Termin vereinbaren.
 ### 2. Wäsche vorbeibringen oder von uns abholen lassen.
 ### 3. Wäsche abholen oder von uns liefern lassen.  
