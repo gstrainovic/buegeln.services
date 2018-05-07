@@ -4,8 +4,8 @@ icon: far fa-money-bill-alt
 order: 2
 ---
 
-Dienstleistung | Preise | Einheit
------------- | -------------
+Dienstleistung | CHF | Einheit
+------------ | ------------- | -------------
 Hemd bügeln | 3.50 | Stück
 Restliche Wäsche | 20.00 | Stunde 
 Abholung durch uns | 1 | km
