@@ -1,6 +1,6 @@
 ---
-title: Wie es funktioniert
-subtitle: Keine Zeit oder Lust zum <s>selber</s> bügeln?
+title: Keine Zeit oder Lust zum <s>selber</s> bügeln?
+subtitle: Wie es funktioniert:
 cover-photo: assets/images/banner.jpg
 cover-photo-alt: Bügelservice | Bügelfee
 icon: fa-question
