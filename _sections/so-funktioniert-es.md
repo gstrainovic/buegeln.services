@@ -6,7 +6,7 @@ icon: fa-question
 order: 1
 ---
 
-### Keine Zeit oder Lust <s>selber/<s> zu bügeln?
+### Keine Zeit oder Lust <s>selber/</s> zu bügeln?
 
 ### 1. Termin vereinbaren.  
 ### 2. Wäsche vorbeibringen oder von uns abholen lassen.  
