@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Amazing Blog
+title: Bügel Blog
 icon: fa-pencil
 order: 2
 ---
