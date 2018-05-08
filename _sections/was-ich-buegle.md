@@ -1,6 +1,6 @@
 ---
 title: Was ich bügle
-icon: fa-check
+icon: fa-boxes
 order: 3
 ---
 ### Ich bügle jede Wäsche wie z.B:
