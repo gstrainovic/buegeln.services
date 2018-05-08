@@ -1,5 +1,5 @@
 ---
-title: Wie funktioniert ein Bügelservice
+title: Wie funktioniert ein Bügelservice?
 layout: post
 ---
 Sie fragen sich wie ein Bügelservice funktioniert?
