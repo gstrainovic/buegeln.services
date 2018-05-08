@@ -1,5 +1,5 @@
 ---
-title: Impressum
+title: Impressum & Datenschutz
 layout: "page"
 icon: fa-info
 order: 3
