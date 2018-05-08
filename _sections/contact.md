@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt
 icon: fa-envelope
 order: 7
 ---
