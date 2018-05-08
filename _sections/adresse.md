@@ -1,6 +1,6 @@
 ---
 title: Adresse
-icon: fa-check
+icon: fa-map
 order: 6
 ---
 Strainovic Vesna  
