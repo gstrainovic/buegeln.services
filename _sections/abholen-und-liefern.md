@@ -1,7 +1,7 @@
 ---
 
-title: Abholen und liefern.
-icon: fa-people-carry
+title: Abholen und liefern
+icon: fa-truck
 order: 4
 
 ---
