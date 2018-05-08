@@ -1,6 +1,6 @@
 ---
 
-title: Abhol- und Lieferservice
+title: Abhol und Lieferservice
 icon: fa-truck
 order: 4
 
