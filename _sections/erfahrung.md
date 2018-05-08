@@ -1,5 +1,5 @@
 ---
-title: Erfahrung
+title: Bügelerfahrung
 icon: fa-graduation-cap
 order: 2
 ---
