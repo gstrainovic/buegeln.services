@@ -1,6 +1,5 @@
 ---
 title: Wie funktioniert ein Bügelservice
-author: Chris
 layout: post
 ---
 Du fragst dich wie ein Bügelservice funktioniert?
