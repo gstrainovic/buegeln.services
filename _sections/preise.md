@@ -1,5 +1,5 @@
 ---
-title: Preise.
+title: Preise
 icon: fa-money
 order: 3
 ---
