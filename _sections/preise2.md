@@ -1,6 +1,6 @@
 ---
 title: Erfahrung2
-icon: fa-graduation-cap
+icon: fa-dollar-sign
 order: 3
 ---
 
