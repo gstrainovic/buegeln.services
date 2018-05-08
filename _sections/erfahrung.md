@@ -1,7 +1,7 @@
 ---
 title: Erfahrung
 icon: fa-graduation-cap
-order: 3
+order: 2
 ---
 
 Ich bin seit über 10 Jahren Hausfrau und arbeite in einer Wäscherei.  
