@@ -1,7 +1,6 @@
 ---
 title: Welche Wäsche ich bügle
 layout: post
-icon: fa-lightbulb-o
 ---
 
 Sie fragen sich welche Wäschesorten ich alles knitterfrei und sorgfältig bügle und falte?
