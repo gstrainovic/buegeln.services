@@ -1,6 +1,6 @@
 ---
 title: Preise.
-icon: fa-dollar-sign
+icon: fa-money
 order: 3
 ---
 
