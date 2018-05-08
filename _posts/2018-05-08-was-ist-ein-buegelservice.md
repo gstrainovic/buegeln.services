@@ -1,5 +1,5 @@
 ---
-title: Was ist ein Bügelservice
+title: Was ist ein Bügelservice?
 layout: post
 ---
 Sie fragen sich was ein Bügelservice ist?  
