@@ -1,6 +1,6 @@
 ---
 title: Erfahrung2
-icon: fa-dollar-sign
+icon: fa-usd
 order: 3
 ---
 
