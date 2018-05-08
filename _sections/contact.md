@@ -1,7 +1,7 @@
 ---
 title: Contact
 icon: fa-envelope
-order: 5
+order: 7
 ---
 
 # 076 707 21 57 (auch WhatsApp oder Viber)
