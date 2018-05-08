@@ -4,7 +4,7 @@ author: Chris
 layout: post
 ---
 Du fragst dich wie ein Bügelservice funktioniert?
-Dies ist ganz einfach. Du musst uns bloss kontaktieren. Du kannst entweder Anrufen auf 076 707 21 57 oder du schreibst uns auf dieser Nr per WhatsApp , SMS , Viber. Schreiben kannst du uns auch über das Email [strainovic.v@gmail.com](strainovic.v@gmail.com) oder über das Kontaktformular.  
+Dies ist ganz einfach. Du musst uns bloss kontaktieren. Du kannst entweder Anrufen auf 076 707 21 57 oder du schreibst uns auf dieser Nr per WhatsApp , SMS , Viber. Schreiben kannst du uns auch über das Email [strainovic.v@gmail.com](mailto:strainovic.v@gmail.com) oder über das Kontaktformular.  
   
 Dann gibst du mir kurz Bescheid um welche Zeit du die Wäsche vorbeibringt. Ich nehme die Wäsche entgegen , bügle die Wäsche sorgfältig und speditiv von Hand bis zur Knitterfreiheit. Am nächsten Tag kannst du die gebügelte Wäsche zur vereinbarten Zeit dann wieder abholen.  
   
