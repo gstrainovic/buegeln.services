@@ -1,6 +1,6 @@
 ---
 
-title: Was ich bügle
+title: Was ich bügle.
 icon: fa-boxes
 order: 3
 
