@@ -1,7 +1,7 @@
 ---
 title: Abholen und liefern
 icon: fa-check
-order: 7
+order: 4
 ---
 Ich hole und bringe die Wäsche in der ganzen Region Ostschweiz / Bodensee ab , z.B:  
 
