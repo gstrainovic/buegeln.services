@@ -44,7 +44,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Frotteetuch,Tischläufer,Tischset,Tischtuch,Küchentuch.
 author: Strainovic Vesna
 email: strainovic.v@gmail.com
-avatar: assets/images/strainovic-vesna.png
+avatar: assets/images/buegeleisen-klein.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
