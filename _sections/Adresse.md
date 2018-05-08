@@ -1,7 +1,7 @@
 ---
 title: Adresse
 icon: fa-check
-order: 5
+order: 6
 ---
 Strainovic Vesna  
 Bahnstrasse 9b  
