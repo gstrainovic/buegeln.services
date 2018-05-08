@@ -1,6 +1,6 @@
 ---
 title: Preise
-icon: far fa-money-bill-alt
+icon: fa-money-bill-alt
 order: 3
 ---
 
