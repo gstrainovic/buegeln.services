@@ -1,7 +1,7 @@
 ---
 
-title: Was ich bügle.
-icon: fa-boxes
+title: Was ich bügle
+icon: fa-list
 order: 3
 
 ---
