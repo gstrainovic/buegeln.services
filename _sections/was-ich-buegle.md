@@ -3,7 +3,7 @@ title: Was ich bügle
 icon: fa-check
 order: 5
 ---
-## Ich bügle jede Wäsche wie z.B:
+### Ich bügle jede Wäsche wie z.B:
 Bettwäsche wie z.B Leintuch , Duvetanzug , Kissen , Decke usw.  
   
 Leibwäsche wie z.B Unterhemd , T-Shirt , Sweat-Shirt , Pullover , Trainer , Trainerhose , Pyjama , Nachthemd , Bademantel , Hose , Shorts , Jeans , Jupe , Damenbluse , Hemd, Gilet usw.  
