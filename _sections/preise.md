@@ -1,7 +1,7 @@
 ---
 title: Preise
 icon: fa-money
-order: 3
+order: 5
 ---
 
 Dienstleistung | Preis
