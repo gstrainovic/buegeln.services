@@ -1,6 +1,6 @@
 ---
 
-title: Abholen und liefern
+title: Abholen und liefern.
 icon: fa-people-carry
 order: 4
 
