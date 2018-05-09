@@ -4,7 +4,7 @@ icon: fa-envelope
 order: 7
 ---
 
-# Tel: [+41 76 707 21 57](tel:+41767072157) (auch WhatsApp oder Viber)
+# Tel: [+41 76 707 21 57](tel:+41767072157)  (auch WhatsApp oder Viber)
 # Email: [strainovic.v@gmail.com](mailto:strainovic.v@gmail.com) 
 
 <form method="post" action="https://formspree.io/{{ site.email }}">
