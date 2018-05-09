@@ -3,7 +3,7 @@ title: Adresse
 icon: fa-map
 order: 6
 ---
-Bügelservice Strainovic
+Bügelservice Strainovic  
 Bahnstrasse 9b  
 9323 Steinach  
 (Im Kanton SG in der Ostschweiz beim Bodensee)
