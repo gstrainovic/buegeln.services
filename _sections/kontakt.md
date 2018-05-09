@@ -13,10 +13,10 @@ order: 7
     <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
     <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
     <div class="12u$">
-      <textarea name="message" placeholder="Message"></textarea>
+      <textarea name="message" placeholder="Nachricht"></textarea>
     </div>
     <div class="12u$">
-      <input type="submit" value="Send Message" />
+      <input type="submit" value="Senden" />
     </div>
   </div>
 </form>
