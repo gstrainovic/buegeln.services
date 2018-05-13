@@ -3,6 +3,7 @@ title: Impressum & Datenschutz
 layout: "page"
 icon: fa-info
 order: 3
+hide: true
 ---
 
 Strainovic Vesna  
