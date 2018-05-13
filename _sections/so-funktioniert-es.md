@@ -1,11 +1,11 @@
 ---
 title: So funktioniert es
-cover-photo: assets/images/banner.jpg
+cover-photo: assets/images/_banner.jpg
 cover-photo-alt: Bügelservice | Bügelfee
 icon: fa-question
 order: 1
 ---
-<span style="color:black">***Keine Zeit oder Lust <s>selber</s> zu bügeln?***</span>
+Keine Zeit oder Lust <s>selber</s> zu bügeln?  
 
 So erhalten Sie Ihre knitterfreie gebügelte Wäsche:
 1. Termin vereinbaren.
