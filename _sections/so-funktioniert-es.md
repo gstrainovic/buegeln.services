@@ -5,12 +5,13 @@ cover-photo-alt: Bügelservice | Bügelfee
 icon: fa-question
 order: 1
 ---
-<span style="color:red">***Keine Zeit oder Lust <s>selber</s> zu bügeln?  
+<span style="color:black">***Keine Zeit oder Lust <s>selber</s> zu bügeln?***</span>
+
 So erhalten Sie Ihre knitterfreie gebügelte Wäsche:
 1. Termin vereinbaren.
 2. Gewaschene Wäsche vorbeibringen oder von uns abholen lassen.
 3. Wäsche nach 24h abholen oder von uns liefern lassen.
-***</span>
+
 
 <a href="#kontakt" class="button scrolly">Termin vereinbaren</a>
 
