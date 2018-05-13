@@ -6,7 +6,7 @@ order: 1
 
 ![alt text](https://buegeln.services/assets/images/buegelservice.jpg "Bügelservice St.Gallen")
 
-Keine Zeit oder Lust <s>selber</s> zu bügeln?  
+### Keine Zeit oder Lust <s>selber</s> zu bügeln?  
 
 So erhalten Sie Ihre knitterfreie gebügelte Wäsche:
 1. Termin vereinbaren.
