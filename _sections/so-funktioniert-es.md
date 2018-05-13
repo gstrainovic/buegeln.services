@@ -4,7 +4,7 @@ icon: fa-question
 order: 1
 ---
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://buegeln.services/assets/images/buegelservice.jpg "Bügelservice St.Gallen")
 
 Keine Zeit oder Lust <s>selber</s> zu bügeln?  
 
