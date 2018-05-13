@@ -1,6 +1,6 @@
 ---
 title: So funktioniert es
-cover-photo: assets/images/_banner.jpg
+cover-photo: assets/images/buegelservice.jpg
 cover-photo-alt: Bügelservice | Bügelfee
 icon: fa-question
 order: 1
