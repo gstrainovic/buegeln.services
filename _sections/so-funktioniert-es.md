@@ -4,7 +4,6 @@ icon: fa-question
 order: 1
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
