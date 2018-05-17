@@ -3,7 +3,7 @@ title: So funktioniert es
 icon: fa-question
 order: 1
 ---
-
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,6 +15,9 @@ img {
 </style>
 </head>
 <body>
+
+
+</body>
 </html>
 
 ![alt text](https://buegeln.services/assets/images/buegelservice.jpg "Bügelservice St.Gallen")
