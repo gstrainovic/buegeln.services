@@ -4,8 +4,6 @@ icon: fa-question
 order: 1
 ---
 
-![alt text](https://buegeln.services/assets/images/buegelservice.jpg "Bügelservice St.Gallen")
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,13 +16,9 @@ img {
 </style>
 </head>
 <body>
-
-<img src="https://buegeln.services/assets/images/buegelservice.jpg" width="460" height="345">
-<p>Resize the browser window to see how the image will scale.</p>
-
-</body>
 </html>
 
+![alt text](https://buegeln.services/assets/images/buegelservice.jpg "Bügelservice St.Gallen")
 
 ### Keine Zeit oder Lust <s>selber</s> zu bügeln?  
 
