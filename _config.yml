@@ -48,7 +48,7 @@ avatar: assets/images/buegeleisen-klein-transparent.gif
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://buegeln.services" # the base hostname & protocol for your site
+url: "https://gstrainovic.github.com/buegeln.services" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url: https://www.facebook.com/gstrainovic
